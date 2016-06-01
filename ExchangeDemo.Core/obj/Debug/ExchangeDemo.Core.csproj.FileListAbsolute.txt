@@ -1,0 +1,11 @@
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Core\bin\Debug\ExchangeDemo.Core.dll
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Core\bin\Debug\ExchangeDemo.Core.pdb
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Core\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Core\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Core\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Core\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Core\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Core\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Core\obj\Debug\ExchangeDemo.Core.csprojResolveAssemblyReference.cache
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Core\obj\Debug\ExchangeDemo.Core.dll
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Core\obj\Debug\ExchangeDemo.Core.pdb

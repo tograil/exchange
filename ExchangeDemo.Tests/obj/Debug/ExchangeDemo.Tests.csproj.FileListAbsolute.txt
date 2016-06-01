@@ -1,0 +1,17 @@
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\ExchangeDemo.Tests.dll
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\ExchangeDemo.Tests.pdb
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\nunit.framework.dll
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\nunit.framework.xml
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\obj\Debug\ExchangeDemo.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\obj\Debug\ExchangeDemo.Tests.dll
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\obj\Debug\ExchangeDemo.Tests.pdb
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\ExchangeDemo.Core.dll
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\Moq.dll
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\ExchangeDemo.Core.pdb
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.Tests\bin\Debug\Moq.xml

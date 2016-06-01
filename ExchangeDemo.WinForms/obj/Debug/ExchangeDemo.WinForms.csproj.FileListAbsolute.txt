@@ -1,0 +1,8 @@
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.WinForms\bin\Debug\ExchangeDemo.WinForms.exe.config
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.WinForms\bin\Debug\ExchangeDemo.WinForms.exe
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.WinForms\bin\Debug\ExchangeDemo.WinForms.pdb
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.WinForms\obj\Debug\ExchangeDemo.WinForms.csprojResolveAssemblyReference.cache
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.WinForms\obj\Debug\ExchangeDemo.WinForms.Properties.Resources.resources
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.WinForms\obj\Debug\ExchangeDemo.WinForms.csproj.GenerateResource.Cache
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.WinForms\obj\Debug\ExchangeDemo.WinForms.exe
+C:\Projects\Experements\ExchangeDemo\ExchangeDemo.WinForms\obj\Debug\ExchangeDemo.WinForms.pdb
